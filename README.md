@@ -49,6 +49,7 @@ A spatial overlay of parking lot distribution and population density was used to
 
 ### Geographic Detector
 The main functions of the geodetector cover factor detection, interaction detection, risk detection and ecological detection. Both factor detection and interaction detection were used in this study, aiming to assess the explanatory strength of each influencing factor on the dependent variable and to explore how the interaction between different factors affects this dependent variable. The number of public parking lots was set as the dependent variable, while the values of various factors that may affect its number were used as independent variables, as a way to analyze in depth the explanatory power of these independent variables on the number of public parking lots and their importance. The results are shown below. The interaction detector shows generalized enhancement among all factors. This indicates that the distribution of parking lots is influenced by the interaction of several factors rather than being controlled by a single factor only. In particular, there is a significant correlation between universities (X4) and residential areas (X8), the latter also being correlated with shopping malls (X6) and transportation (X10). There is also a significant correlation between scenic areas (X5) and shopping centers (X6). On the contrary, relatively weak interactions were found between population density (X1) and industrial parks (X3) and between population density (X1) and road network (X2). Significant positive effects were found between the remaining factors.
+
 <p align="center">
-  <img src="./images/Population%20density%20.jpg" alt="Analysis" width="50%">
+  <img src="./images/interaction%20detector.jpg" alt="Analysis" width="50%">
 </p>
