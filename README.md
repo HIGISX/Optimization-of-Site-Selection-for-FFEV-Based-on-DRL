@@ -1,4 +1,20 @@
 # Optimization Site Selection of Free-Floating Shared Electric Vehicles Combined with Deep Reinforcement Learning
+This project is the code for the study: 
+
+Wang, S., Liang, X., Zhou, L., Li, X., Pan, Y., Cheng, Y., ... & Zheng, J. (2024, October). Optimization of Site Selection for Free-Floating Shared Electric Vehicles Based on Deep Reinforcement Learning. In Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Advances in Urban-AI (pp. 62-68).[[Full article]](https://dl.acm.org/doi/abs/10.1145/3681780.3697249)
+
+Paper reference:
+```bash
+@inproceedings{wang2024optimization,
+  title={Optimization of Site Selection for Free-Floating Shared Electric Vehicles Based on Deep Reinforcement Learning},
+  author={Wang, Shaohua and Liang, Xiaojian and Zhou, Liang and Li, Xiao and Pan, Yongyi and Cheng, Yin and Cao, Chunxiang and Su, Cheng and Zheng, Jiayi},
+  booktitle={Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Advances in Urban-AI},
+  pages={62--68},
+  year={2024}
+}
+```
+
+---
 ![Work Flow](./images/workflow.jpg)
 
 ---
