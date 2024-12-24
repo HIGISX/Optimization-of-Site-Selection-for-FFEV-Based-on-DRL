@@ -16,12 +16,12 @@ p = 15
 uses = 'valid'
 # uses = 'test'
 
-ls = gpd.read_file(r"./data/AED/需求点.shp")
+ls = gpd.read_file(r"./data/caiyangdian.shp")
 ls['POINT_X'] = ls.geometry.x
 ls['POINT_Y'] = ls.geometry.y
 # print("The number of records is ", len(ls))
 
-sitedf = gpd.read_file("./data/AED/设施点.shp")
+sitedf = gpd.read_file("./data/sheshidian.shp")
 sitedf['POINT_X'] = sitedf.geometry.x
 sitedf['POINT_Y'] = sitedf.geometry.y
 # print("The number of records is ", len(sitedf))
